@@ -1,4 +1,4 @@
-Deep-Learning per il riconoscimento musicale
+# Deep Learning per il riconoscimento musicale
 
 I l progetto illustra la creazione di reti neurali di
 diversa tipologia che possiedono l’obbiettivo di
@@ -38,3 +38,6 @@ con la quale è stata ottenuta un’accuracy sui dati
 del test set del 90%. I risultati delle reti convoluzionali
 hanno invece mostrato un valore dell’accuracy
 nel test set pari al 58%.
+
+
+![alt text](https://www.accademiamusicamoderna.com/AmmModena/wp-content/uploads/image.jpg)
